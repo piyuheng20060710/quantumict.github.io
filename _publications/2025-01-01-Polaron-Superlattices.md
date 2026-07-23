@@ -1,6 +1,6 @@
 ---
 title: "Polaron Superlattices in n-Doped Single Conjugated Polymers"
-author: "Honghui Shang et al."
+author: "Yingying Wu; Bin Li; Xiang Zhu; Zhengya Wang; Ruoting Yin; Zhenfa Zheng; Bowen Zhao; Honghui Shang; Qing-Song Deng; Yuan-Zhi Tan; Yao Zhang; Chuanxu Ma; Shijing Tan; Yi Luo; Jinlong Yang; J. G. Hou; Bing Wang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-01-Polaron-Superlattices

@@ -1,6 +1,6 @@
 ---
 title: "Accelerating Many-Body Quantum Chemistry via Generative Transformer-Enhanced Configuration Interaction"
-author: "Honghui Shang et al."
+author: "Bowen Kan; Honghui Shang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-04-Generative-Transformer-CI

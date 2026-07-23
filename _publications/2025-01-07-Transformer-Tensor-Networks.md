@@ -1,6 +1,6 @@
 ---
 title: "Bridging the Gap between Transformer-Based Neural Networks and Tensor Networks for Quantum Chemistry"
-author: "Honghui Shang et al."
+author: "Bowen Kan; Yingqi Tian; Yangjun Wu; Yunquan Zhang; Honghui Shang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-07-Transformer-Tensor-Networks

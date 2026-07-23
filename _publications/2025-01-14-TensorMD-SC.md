@@ -1,6 +1,6 @@
 ---
 title: "TENSORMD: Accelerating Molecular Dynamics with a High-Performance Machine Learning Interatomic Potential"
-author: "Honghui Shang et al."
+author: "Yucheng Ouyang; Xin Chen; Ying Liu; Xin Chen; Honghui Shang; Zhenchuan Chen; Rongfen Lin; Xingyu Gao; Lifang Wang; Fang Li; Jiahao Shan; Haifeng Song; Huimin Cui; Xiaobing Feng; Jingling Xue"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-14-TensorMD-SC

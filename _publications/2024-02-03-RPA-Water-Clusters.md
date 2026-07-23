@@ -1,6 +1,6 @@
 ---
 title: "Efficient Structural Relaxation Based on the Random Phase Approximation: Applications to Water Clusters"
-author: "Honghui Shang et al."
+author: "Muhammad N. Tahir; Honghui Shang; Jia Li; Xinguo Ren"
 collection: publications
 category: 2024
 permalink: /publication/2024-02-03-RPA-Water-Clusters

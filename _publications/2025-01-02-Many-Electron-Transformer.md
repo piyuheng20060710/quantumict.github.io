@@ -1,6 +1,6 @@
 ---
 title: "Solving the Many-Electron Schrödinger Equation with a Transformer-Based Framework"
-author: "Honghui Shang et al."
+author: "Honghui Shang; Chu Guo; Yangjun Wu; Zhenyu Li; Jinlong Yang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-02-Many-Electron-Transformer

@@ -1,6 +1,6 @@
 ---
 title: "Advancing Nonadiabatic Molecular Dynamics Simulations in Solids with E(3) Equivariant Deep Neural Hamiltonians"
-author: "Honghui Shang et al."
+author: "Changwei Zhang; Yang Zhong; Zhi-Guo Tao; Xinming Qin; Honghui Shang; Zhenggang Lan; Oleg V. Prezhdo; Xin-Gao Gong; Weibin Chu; Hongjun Xiang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-03-Nonadiabatic-Dynamics-E3

@@ -1,6 +1,6 @@
 ---
 title: "A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States"
-author: "Honghui Shang et al."
+author: "Daran Sun; Bowen Kan; Haoquan Long; Hairui Zhao; Haoxu Li; Yicheng Liu; Pengyu Zhou; Ankang Feng; Wenjing Huang; Yida Gu; Zhenyu Li; Honghui Shang; Yunquan Zhang; Dingwen Tao; Ninghui Sun; Guangming Tan"
 collection: publications
 category: 2026
 permalink: /publication/2026-01-05-GPU-CI-NNQS

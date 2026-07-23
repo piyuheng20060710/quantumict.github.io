@@ -1,6 +1,6 @@
 ---
 title: "Implementation of the Hybrid Exchange-Correlation Functionals in the SIESTA Code"
-author: "Honghui Shang et al."
+author: "Yann Pouillon; Bill Clintone Oyomo; James Sifuna; María Camarasa-Gómez; Xinming Qin; Carlos Beltrán; Fernando Gómez-Ortiz; Honghui Shang; Javier Junquera"
 collection: publications
 category: 2026
 permalink: /publication/2026-01-04-SIESTA-Hybrid-Functionals

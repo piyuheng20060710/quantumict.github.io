@@ -1,6 +1,6 @@
 ---
 title: "TensorMD: Molecular Dynamics Simulation with Ab Initio Accuracy of 50 Billion Atoms"
-author: "Honghui Shang et al."
+author: "Yucheng Ouyang; Ying Liu; Honghui Shang; Zhenchuan Chen; Jiahao Shan; Huimin Cui; Xiaobing Feng; Xin Chen; Xingyu Gao; Lifang Wang; Haifeng Song; Xin Chen; Rongfen Lin; Fang Li"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-15-TensorMD-PPoPP

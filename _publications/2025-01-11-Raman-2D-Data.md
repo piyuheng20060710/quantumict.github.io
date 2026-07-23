@@ -1,6 +1,6 @@
 ---
 title: "High-Throughput Computation of Ab Initio Raman Spectra for Two-Dimensional Materials"
-author: "Honghui Shang et al."
+author: "Geng Li; Yingxiang Gao; Daiyou Xie; Leilei Zhu; Dongjie Shi; Shuming Zeng; Wei Zhan; Jun Chen; Honghui Shang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-11-Raman-2D-Data

@@ -1,6 +1,6 @@
 ---
 title: "Clifford Augmented Density Matrix Renormalization Group for Ab Initio Quantum Chemistry"
-author: "Honghui Shang et al."
+author: "Lizhong Fu; Honghui Shang; Jinlong Yang; Chu Guo"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-08-Clifford-Augmented-DMRG

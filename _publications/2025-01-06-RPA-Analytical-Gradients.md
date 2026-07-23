@@ -1,6 +1,6 @@
 ---
 title: "Analytical Gradients of Random-Phase Approximation Plus Corrections from Renormalized Single Excitations"
-author: "Honghui Shang et al."
+author: "Muhammad N. Tahir; Honghui Shang; Xinguo Ren"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-06-RPA-Analytical-Gradients

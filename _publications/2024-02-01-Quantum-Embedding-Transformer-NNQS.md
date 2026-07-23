@@ -1,6 +1,6 @@
 ---
 title: "Quantum Embedding Method with Transformer Neural Network Quantum States for Strongly Correlated Materials"
-author: "Honghui Shang et al."
+author: "Huan Ma; Honghui Shang; Jinlong Yang"
 collection: publications
 category: 2024
 permalink: /publication/2024-02-01-Quantum-Embedding-Transformer-NNQS

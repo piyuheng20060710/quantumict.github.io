@@ -1,6 +1,6 @@
 ---
 title: "Fast and Scalable Neural Network Quantum States Method for Molecular Potential Energy Surfaces"
-author: "Honghui Shang et al."
+author: "Yangjun Wu; Wanlu Cao; Jiacheng Zhao; Honghui Shang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-10-NNQS-Potential-Energy-Surfaces

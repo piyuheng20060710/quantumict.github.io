@@ -1,6 +1,6 @@
 ---
 title: "First-Principles Approach to Electron-Vibration Interaction in Molecules from an Atomic Orbital Basis: The Allen-Heine-Cardona Theory and Beyond"
-author: "Honghui Shang et al."
+author: "Hao-Yu Qi; Honghui Shang; Xinguo Ren; Hong Jiang"
 collection: publications
 category: 2026
 permalink: /publication/2026-01-02-AHC-Electron-Vibration

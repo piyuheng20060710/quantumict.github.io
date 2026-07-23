@@ -1,6 +1,6 @@
 ---
 title: "Theoretical Raman Study of In-Plane Spin-Phonon Coupling in a CrCl3 Monolayer"
-author: "Honghui Shang et al."
+author: "Leilei Zhu; Xiongzhi Zeng; Haiwen Luo; Honghui Shang; Zhenyu Li"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-12-Spin-Phonon-CrCl3

@@ -1,6 +1,6 @@
 ---
 title: "Large-Scale Neural Network Quantum States Calculation for Quantum Chemistry on a New Sunway Supercomputer"
-author: "Honghui Shang et al."
+author: "Yangjun Wu; Wenhao Zhou; Li Shen; Hong Qian; Honghui Shang"
 collection: publications
 category: 2025
 permalink: /publication/2025-01-09-NNQS-Sunway

@@ -1,6 +1,6 @@
 ---
 title: "Accurate Calculation of Interatomic Forces with Neural Networks Based on a Generative Transformer Architecture"
-author: "Honghui Shang et al."
+author: "Juntao Lai; Bowen Kan; Yangjun Wu; Qiang Fu; Honghui Shang; Zhenyu Li; Jinlong Yang"
 collection: publications
 category: 2024
 permalink: /publication/2024-02-02-Accurate-Interatomic-Forces-Transformer
