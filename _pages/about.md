@@ -24,20 +24,30 @@ We are focuing on:
 <sub>[another link](https://faculty.ustc.edu.cn/shanghonghui/en/index.htm)</sub>  
    
 
-## Current Members 
+## Current Members
+
+### Doctor Students
 [Bowen Kan](/members/kanbowen) (Doctor Student)  
-[Bowen Zhao](/members/zhaobowen) (Master Student)  
 Daiyou Xie (Doctor Student)  
-Jiexuan Zhou (Master Student)  
 Leilei Zhu (Doctor Student)  
+Yumeng Zhou (周雨濛) (Doctor Student)  
+Aitong Lu (路爱同) (Doctor Student)  
+
+### Master Students
+[Bowen Zhao](/members/zhaobowen) (Master Student)  
 Pengyu Zhou (Master Student)  
-[Zhiqian Xu](/members/xuzhiqian) (Doctor Student)  
 [Zhuozhao Xia](https://xiazhuozhao.com) (Master Student)  
+Shitian Wan (万诗天) (Master Student)  
+Yimang Chen (陈一铓) (Master Student)  
+Ziheng Huang (黄子恒) (Master Student)  
+Hao Wu (吴昊) (Master Student)  
 
 ## Previous Members
 Haiwen Luo (Master, 2023) National Supercomputer Center in Wuxi  
 Yangjun Wu (Master, 2024) ByteDance  
 Yingxiang Gao (Graduated)  
+Zhiqian Xu (徐直前) (Doctor) Huawei Semiconductor Business Group  
+Jiexuan Zhou (周杰烜) (Master) SINOPEC Engineering Incorporation, Digital Engineering Department  
 
 <!-- # Publication
 [Our latest publications](/publication/pub_other.html) -->
