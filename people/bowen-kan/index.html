@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bowen Kan, PhD student at QuantumICT Research Group.">
+  <title>Bowen Kan | QuantumICT</title>
+  <style>
+    :root { --ink: #1f2933; --muted: #65737e; --line: #d9e0e3; --accent: #007a5e; --paper: #fff; }
+    * { box-sizing: border-box; }
+    body { margin: 0; color: var(--ink); background: var(--paper); font: 16px/1.65 Arial, Helvetica, sans-serif; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    header { border-bottom: 1px solid var(--line); }
+    .nav, .layout, footer { width: min(1120px, calc(100% - 48px)); margin: 0 auto; }
+    .nav { min-height: 74px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+    .brand { color: var(--ink); font: 700 18px/1 Georgia, "Times New Roman", serif; }
+    .brand span { color: var(--muted); font: 400 13px/1 Arial, Helvetica, sans-serif; margin-left: 10px; }
+    .nav-links { display: flex; gap: 22px; font-size: 14px; }
+    .layout { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 78px; padding: 60px 0 76px; }
+    aside { font-size: 14px; }
+    .portrait { width: 210px; aspect-ratio: 1; object-fit: cover; border: 1px solid var(--line); }
+    aside h1 { margin: 22px 0 2px; font: 400 31px/1.15 Georgia, "Times New Roman", serif; }
+    .cn-name, .role, .location { margin: 4px 0; color: var(--muted); }
+    .role { margin-top: 16px; color: var(--ink); }
+    .contact { margin: 18px 0 0; padding-top: 17px; border-top: 1px solid var(--line); }
+    .contact a { display: block; margin: 5px 0; }
+    main { max-width: 710px; }
+    main h2 { margin: 0 0 19px; padding-bottom: 10px; border-bottom: 1px solid var(--line); font: 400 28px/1.2 Georgia, "Times New Roman", serif; }
+    main section + section { margin-top: 52px; }
+    main p { margin: 0; }
+    .tags { display: flex; flex-wrap: wrap; gap: 9px; list-style: none; margin: 0; padding: 0; }
+    .tags li { border: 1px solid var(--line); padding: 5px 10px; color: var(--muted); font-size: 13px; }
+    .publication { padding: 18px 0; border-bottom: 1px solid var(--line); }
+    .publication:first-of-type { padding-top: 0; }
+    .publication h3 { margin: 0 0 6px; font-size: 16px; line-height: 1.45; }
+    .publication p { color: var(--muted); font-size: 14px; }
+    footer { border-top: 1px solid var(--line); padding: 22px 0 36px; color: var(--muted); font-size: 13px; }
+    @media (max-width: 720px) {
+      .nav { min-height: 64px; }
+      .nav-links { gap: 13px; font-size: 13px; }
+      .brand span { display: none; }
+      .layout { grid-template-columns: 1fr; gap: 40px; padding-top: 38px; }
+      .portrait { width: 170px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav" aria-label="Primary navigation">
+      <a class="brand" href="../../"><span>QuantumICT Research Group</span></a>
+      <div class="nav-links"><a href="../../#research">Research</a><a href="../../#publications">Publications</a><a href="../../#people">Members</a></div>
+    </nav>
+  </header>
+  <div class="layout">
+    <aside>
+      <img class="portrait" src="bowen-kan.png" alt="Portrait of Bowen Kan">
+      <h1>Bowen Kan</h1>
+      <p class="cn-name">Kan Bowen</p>
+      <p class="role">PhD Student<br>QuantumICT Research Group</p>
+      <p class="location">Joined in 2023<br>Hefei, China</p>
+      <div class="contact"><a href="mailto:kanbowen17@163.com">Email</a></div>
+    </aside>
+    <main>
+      <section>
+        <h2>About</h2>
+        <p>Bowen Kan is a PhD student at the Institute of Computing Technology, Chinese Academy of Sciences. His work focuses on large-scale parallel quantum chemistry based on QiankunNet, bringing high-performance computing and neural-network quantum states together for electronic-structure calculations.</p>
+      </section>
+      <section>
+        <h2>Research Interests</h2>
+        <ul class="tags"><li>High-Performance Computing</li><li>AI for Science</li><li>Computer Architecture</li><li>Neural-Network Quantum States</li></ul>
+      </section>
+      <section>
+        <h2>Selected Publications</h2>
+        <article class="publication">
+          <h3><a href="https://doi.org/10.1145/3806645.3807583">A Fully GPU-Accelerated Framework for High-Performance Configuration Interaction Selection with Neural Network Quantum States</a></h3>
+          <p>HPDC 2026, 2026</p>
+        </article>
+        <article class="publication">
+          <h3><a href="https://doi.org/10.1021/acs.jctc.5c01429">Accelerating Many-Body Quantum Chemistry via Generative Transformer-Enhanced Configuration Interaction</a></h3>
+          <p>Journal of Chemical Theory and Computation, 2025</p>
+        </article>
+        <article class="publication">
+          <h3><a href="https://doi.org/10.1145/3712285.3759800">NNQS-SCI: Tackling Trillion-Dimensional Hilbert Space with Adaptive Neural Network Quantum States</a></h3>
+          <p>SC 2025, 2025</p>
+        </article>
+        <article class="publication">
+          <h3><a href="https://doi.org/10.1021/acs.jctc.4c01703">Bridging the Gap between Transformer-Based Neural Networks and Tensor Networks for Quantum Chemistry</a></h3>
+          <p>Journal of Chemical Theory and Computation, 2025</p>
+        </article>
+      </section>
+    </main>
+  </div>
+  <footer>QuantumICT Research Group &middot; University of Science and Technology of China</footer>
+</body>
+</html>
