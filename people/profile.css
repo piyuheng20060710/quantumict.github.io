@@ -1,0 +1,33 @@
+:root { --ink: #1f2933; --muted: #65737e; --line: #d9e0e3; --accent: #007a5e; --paper: #fff; }
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: var(--paper); font: 16px/1.65 Arial, Helvetica, sans-serif; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+header { border-bottom: 1px solid var(--line); }
+.nav, .layout, footer { width: min(1120px, calc(100% - 48px)); margin: 0 auto; }
+.nav { min-height: 74px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.brand { color: var(--ink); font: 700 18px/1 Georgia, "Times New Roman", serif; }
+.nav-links { display: flex; gap: 22px; font-size: 14px; }
+.layout { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 78px; padding: 60px 0 76px; }
+aside { font-size: 14px; }
+.portrait, .portrait-placeholder { width: 210px; aspect-ratio: 1; border: 1px solid var(--line); }
+.portrait { object-fit: cover; }
+.portrait-placeholder { display: grid; place-items: center; color: var(--muted); background: #f7f9f9; font: 44px/1 Georgia, "Times New Roman", serif; }
+aside h1 { margin: 22px 0 2px; font: 400 31px/1.15 Georgia, "Times New Roman", serif; }
+.cn-name, .role, .location { margin: 4px 0; color: var(--muted); }
+.role { margin-top: 16px; color: var(--ink); }
+.contact { margin: 18px 0 0; padding-top: 17px; border-top: 1px solid var(--line); }
+.contact a { display: block; margin: 5px 0; }
+main { max-width: 710px; }
+main h2 { margin: 0 0 19px; padding-bottom: 10px; border-bottom: 1px solid var(--line); font: 400 28px/1.2 Georgia, "Times New Roman", serif; }
+main section + section { margin-top: 52px; }
+main p { margin: 0; }
+.tags { display: flex; flex-wrap: wrap; gap: 9px; list-style: none; margin: 0; padding: 0; }
+.tags li { border: 1px solid var(--line); padding: 5px 10px; color: var(--muted); font-size: 13px; }
+.publication { padding: 18px 0; border-bottom: 1px solid var(--line); }
+.publication:first-of-type { padding-top: 0; }
+.publication h3 { margin: 0 0 6px; font-size: 16px; line-height: 1.45; }
+.publication p { color: var(--muted); font-size: 14px; }
+.note { color: var(--muted); font-style: italic; }
+footer { border-top: 1px solid var(--line); padding: 22px 0 36px; color: var(--muted); font-size: 13px; }
+@media (max-width: 720px) { .nav { min-height: 64px; } .nav-links { gap: 13px; font-size: 13px; } .layout { grid-template-columns: 1fr; gap: 40px; padding-top: 38px; } .portrait, .portrait-placeholder { width: 170px; } }
