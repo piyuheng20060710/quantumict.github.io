@@ -1,0 +1,7 @@
+.pi-card .pi-home-link { align-items: center; gap: 10px; display: flex; }
+.pi-card .pi-home-link img { object-fit: cover; width: 34px; height: 34px; border-radius: 50%; }
+.person { display: block; padding: 0; }
+.person .person-link { color: var(--ink); grid-template-columns: 48px 1fr; align-items: center; gap: 16px; padding: 15px 0; display: grid; }
+.person .person-link:hover h4 { color: var(--green); }
+.person .person-link:hover { text-decoration: none; }
+.people-columns-single { grid-template-columns: minmax(0, 1fr); margin-bottom: -30px; }
