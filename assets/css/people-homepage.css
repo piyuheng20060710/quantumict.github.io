@@ -5,3 +5,4 @@
 .person .person-link:hover h4 { color: var(--green); }
 .person .person-link:hover { text-decoration: none; }
 .people-columns-single { grid-template-columns: minmax(0, 1fr); margin-bottom: -30px; }
+.pi-avatar.member-photo, .person-avatar.member-photo { object-fit: cover; border-radius: 0; display: block; }
